@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[About to begin executing Suite Suite]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Started executing following method : HomePageTest.beforeSuiteTest]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : HomePageTest.beforeSuiteTest]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Started executing following method : HomePageTest.OpenUptakeURL]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : HomePageTest.OpenUptakeURL]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Started executing following method : HomePageTest.VerifyHomePageElementsAndTextPresent]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : HomePageTest.VerifyHomePageElementsAndTextPresent]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Started executing following method : HomePageTest.ContactUptakeForJob]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : HomePageTest.ContactUptakeForJob]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Started executing following method : FillOutJobApplication.LocateAllJobOpeningAndClickLink]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : FillOutJobApplication.LocateAllJobOpeningAndClickLink]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Started executing following method : HomePageTest.CloseApplication]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : HomePageTest.CloseApplication]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9149" started-at="2017-12-27T05:53:55Z" finished-at="2017-12-27T05:54:04Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="8397" started-at="2017-12-27T05:53:55Z" finished-at="2017-12-27T05:54:04Z">
+      <class name="com.uptake.test.HomePageTest">
+        <test-method status="PASS" signature="OpenUptakeURL()[pri:1, instance:com.uptake.test.HomePageTest@5b8dfcc1]" name="OpenUptakeURL" duration-ms="3833" started-at="2017-12-26T23:53:55Z" finished-at="2017-12-26T23:53:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[-------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Started executing following method : HomePageTest.OpenUptakeURL]]>
+            </line>
+            <line>
+              <![CDATA[Completed executing following method : HomePageTest.OpenUptakeURL]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- OpenUptakeURL -->
+        <test-method status="PASS" signature="VerifyHomePageElementsAndTextPresent()[pri:2, instance:com.uptake.test.HomePageTest@5b8dfcc1]" name="VerifyHomePageElementsAndTextPresent" duration-ms="570" started-at="2017-12-26T23:53:59Z" finished-at="2017-12-26T23:54:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[-------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Started executing following method : HomePageTest.VerifyHomePageElementsAndTextPresent]]>
+            </line>
+            <line>
+              <![CDATA[Completed executing following method : HomePageTest.VerifyHomePageElementsAndTextPresent]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyHomePageElementsAndTextPresent -->
+        <test-method status="PASS" signature="ContactUptakeForJob()[pri:3, instance:com.uptake.test.HomePageTest@5b8dfcc1]" name="ContactUptakeForJob" duration-ms="3969" started-at="2017-12-26T23:54:00Z" finished-at="2017-12-26T23:54:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[-------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Started executing following method : HomePageTest.ContactUptakeForJob]]>
+            </line>
+            <line>
+              <![CDATA[Completed executing following method : HomePageTest.ContactUptakeForJob]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ContactUptakeForJob -->
+      </class> <!-- com.uptake.test.HomePageTest -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="714" started-at="2017-12-27T05:54:04Z" finished-at="2017-12-27T05:54:04Z">
+      <class name="com.uptake.test.FillOutJobApplication">
+        <test-method status="PASS" signature="LocateAllJobOpeningAndClickLink()[pri:1, instance:com.uptake.test.FillOutJobApplication@7cc0cdad]" name="LocateAllJobOpeningAndClickLink" duration-ms="711" started-at="2017-12-26T23:54:04Z" finished-at="2017-12-26T23:54:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[-------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Started executing following method : FillOutJobApplication.LocateAllJobOpeningAndClickLink]]>
+            </line>
+            <line>
+              <![CDATA[Completed executing following method : FillOutJobApplication.LocateAllJobOpeningAndClickLink]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LocateAllJobOpeningAndClickLink -->
+      </class> <!-- com.uptake.test.FillOutJobApplication -->
+      <class name="com.uptake.test.HomePageTest">
+        <test-method status="PASS" signature="beforeSuiteTest()[pri:0, instance:com.uptake.test.HomePageTest@5b8dfcc1]" name="beforeSuiteTest" is-config="true" duration-ms="7904" started-at="2017-12-26T23:53:47Z" finished-at="2017-12-26T23:53:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : HomePageTest.beforeSuiteTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteTest -->
+        <test-method status="PASS" signature="CloseApplication()[pri:0, instance:com.uptake.test.HomePageTest@5b8dfcc1]" name="CloseApplication" is-config="true" duration-ms="674" started-at="2017-12-26T23:54:04Z" finished-at="2017-12-26T23:54:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : HomePageTest.CloseApplication]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CloseApplication -->
+      </class> <!-- com.uptake.test.HomePageTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
